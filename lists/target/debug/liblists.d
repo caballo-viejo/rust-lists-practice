@@ -1,0 +1,1 @@
+C:\Users\mrcla\Documents\projects\rust-lists-practice\lists\target\debug\liblists.rlib: C:\Users\mrcla\Documents\projects\rust-lists-practice\lists\src\first.rs C:\Users\mrcla\Documents\projects\rust-lists-practice\lists\src\lib.rs
